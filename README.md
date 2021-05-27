@@ -1,5 +1,14 @@
 # How to install the Star Wars Republic Commando Fix
 
+## What does it fix ?
+
+- This fix enables the game to run on modern systems, without startup crashes.
+- Allows for modern resolutions up to 4K (Ultra Widescreen excluded at least to my knowledge).
+- Fixes rendering issues caused by modern hardware.
+- Enables an FOV setting.
+- Enables you to change the strength of the headshake effect.
+- Fixes the multiplayer (on a technical level, it is old so only few people are playing it.)
+
 ## Needed Sources
 
 Get the latest version of the fix [here](https://github.com/Leon280698/CT/releases).
